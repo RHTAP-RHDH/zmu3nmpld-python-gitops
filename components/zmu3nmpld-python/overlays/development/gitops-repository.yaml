@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zmu3nmpld-python-gitops-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/zmu3nmpld-python-gitops
